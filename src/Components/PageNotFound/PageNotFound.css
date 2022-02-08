@@ -1,0 +1,15 @@
+.wrapper{
+    background-image: url("./PageNotFound.jpg");
+    height: 613px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.abc{
+    height: 30px;
+    width: 87px;
+    margin-top: 501px;
+    margin-left: 196px;
+    border-radius: 7px;
+    cursor: pointer;
+}

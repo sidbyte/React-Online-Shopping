@@ -1,0 +1,31 @@
+
+.loginabc{
+  background-image: url("./shoppingblur.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 612px;
+  
+}
+
+.container {
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    max-width: 500px;
+    width: 100%;
+    margin: auto;
+   
+}
+  
+
+.form1 {
+        width: 70%;
+        border: 1px solid #dfdfdf;
+        padding: 20px;
+        border-radius: 10px;
+        background: #EFEFEF;
+     }
+
+  
